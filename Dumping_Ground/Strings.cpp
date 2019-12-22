@@ -120,7 +120,7 @@ void checkProgress()
 
 void checkChar()
 {
-    string a = "Aashish Dayanand Gajadhane";
+    string a = "Astrix Arsenic Vector";
 
     // check if a char is present in the string or not;
     if(a.find('x') != std::string::npos) cout << "\n\nChar found\n";
